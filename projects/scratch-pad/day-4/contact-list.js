@@ -54,8 +54,9 @@ function makeContactList() {
         length: function() {
             return contacts.length;
         },
-        addcontact: function(contact)
-    }
+        addcontact: function(contact){
+            
+    },
 }
 
 
